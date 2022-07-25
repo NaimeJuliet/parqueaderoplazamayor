@@ -1,0 +1,22 @@
+.fuente{
+    font-family: 'Courgette', cursive;
+    
+}
+
+.fondo{
+    background: rgb(122, 219, 243);
+background-image: url("img-funeraria/img5.jpg")
+}
+
+.fondobanner{
+    background-image: url("img/fondop.jpg");
+    height: 200px; 
+    background-attachment: fixed;
+    background-position: top center;
+}
+
+.footer{
+    color:black
+}
+
+
